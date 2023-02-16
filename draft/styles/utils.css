@@ -1,0 +1,46 @@
+
+.container {
+	width: 100%;
+	height: 85%;
+	padding: 50px 15%;
+	position: relative;
+}
+
+
+@media (max-width: 1400px) {
+	.container {
+		padding: 25px 10%;
+	}
+}
+
+@media (max-width: 1200px) {
+	.container {
+		padding: 25px 7%;
+	}
+}
+
+@media (max-width: 900px) {
+	.container {
+		padding: 10px 4%;
+		font-size: 14px;
+	}
+}
+
+.header-section {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+}
+
+.tagline-container {
+	background: lightblue;
+}
+
+.ascii-brain-container {
+	background: darkgray;
+}
+
+@media (max-width:  800px) {
+	.header-section {
+		grid-template-columns: 1fr;
+	}
+}
