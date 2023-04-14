@@ -6,7 +6,7 @@
  *                            Variables setup
  *************************************************************************/
 :root {
-	--bg-color: #122958;
+	--bg-color: #0a1b3e; /*#141414; #122958;*/
 	--text-color: whitesmoke;
 }
 
@@ -29,6 +29,7 @@ body {
 header, section {
 	width: 100%;
 	padding: 0 15%;
+	background-color: var(--bg-color);
 }
 
 /*************************************************************************
@@ -117,7 +118,7 @@ nav {
 	position: absolute;
 	left: -15px;
 	transform: scaleX(0);
-	transform-origin: left;
+	transform-origin: right;
 	transition: transform 0.3s ease-out;
 }
 
@@ -135,6 +136,7 @@ nav {
 }
 
 .nav-item:hover::before {
+	transform-origin: left;
 	transform: scaleX(1.0);
 }
 
