@@ -173,11 +173,6 @@ nav {
 	transition: opacity 0.3s ease-out;
 }
 
-.hamburger span:nth-child(1),
-.hamburger span:nth-child(3) {
-	transition: transform 0.3s ease-out;
-}
-
 .hamburger span:nth-child(1) {
 	transform: translateY(-7px);
 }
@@ -186,9 +181,14 @@ nav {
 	transform: translateY(7px);
 }
 
+.hamburger span:nth-child(1),
+.hamburger span:nth-child(3) {
+	transition: transform 0.3s ease-out;
+}
+
 .hamburger.show span:nth-child(2) {
 	opacity: 0;
-	transition: opacity 0s ease-out;
+	/* transition: opacity 0.2s ease-out; */
 }
 
 .hamburger.show span:nth-child(1) {
