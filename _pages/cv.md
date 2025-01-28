@@ -17,15 +17,25 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* Spring/Summer 2023: Research Intern
   * Lis-lab, Aix-Marseille Université
   * Duties includes: Updates and improvements to template
   * Supervisor: Thomas Schatz
 
-* Summer 2021: Research Intern
+* Summer 2022: Research Intern
   * Lis-lab, Aix-Marseille Université
   * Duties included: Merging pull requests
   * Supervisor: Thomas Schatz
+
+* Summer 2021: Software developer Intern
+  * Lis-lab, Aix-Marseille Université
+  * Duties included: Merging pull requests
+  * Supervisor: Alexis Nasr, Jean-Marc Quaranta
+
+* Summer 2021: Research Intern
+  * Lis-lab, Aix-Marseille Université
+  * Duties included: Merging pull requests
+  * Supervisor: Benoit favre
 
 * Summer 2020: Research Intern
   * Lis-lab, Aix-Marseille Université
