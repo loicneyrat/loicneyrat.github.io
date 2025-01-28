@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Welcome!"
-meta_title: "Loïc Neyrat"
+seo_title: "Loïc Neyrat"
 author_profile: true
 redirect_from: 
   - /about/
