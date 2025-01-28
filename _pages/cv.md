@@ -17,23 +17,23 @@ Education
 
 Work experience
 ======
-* Spring 2022 to Summer 2023: Research Intern
-  * Lis-lab, Aix-Marseille Université
+* **Spring 2022 to Summer 2023**: Research Intern in AI and Cognitive Sciences
+  * Qarma Team, Lis-lab, Aix-Marseille Université
   * Subject: Computational model for biological motion perception in Humans
   * Supervisor: [Thomas Schatz](https://thomas.schatz.cogserver.net/)
 
 * Summer 2021: Software developer Intern
-  * Lis-lab, Aix-Marseille Université
+  * CIELAM x Lis-lab, Aix-Marseille Université
   * Subject: Implementation of a Python tool allowing to visualize the process of literary writings.
   * Supervisor: [Alexis Nasr](https://pageperso.lis-lab.fr/~alexis.nasr/), [Jean-Marc Quaranta](https://cielam.univ-amu.fr/membres/jean-marc-quaranta)
 
-* Summer 2021: Research Intern
-  * Lis-lab, Aix-Marseille Université
+* Summer 2021: Research Intern in Machine Learning
+  * TALEP Team, Lis-lab, Aix-Marseille Université
   * Subject: On the efficiency of extractive text summarization techniques.
   * Supervisor: [Benoit favre](https://pageperso.lis-lab.fr/benoit.favre/)
 
-* Summer 2020: Research Intern
-  * Lis-lab, Aix-Marseille Université
+* Summer 2020: Research Intern in Machine Learning
+  * TALEP Team, Lis-lab, Aix-Marseille Université
   * Subject: Experiments on boosting-based approaches for the classification of multi-label medical papers for scientific monitoring on Covid-19 ([Project](https://bibliovid.org/))
   * Supervisor: [Benoit favre](https://pageperso.lis-lab.fr/benoit.favre/)
   
