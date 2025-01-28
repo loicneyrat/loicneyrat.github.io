@@ -69,6 +69,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
    -->
+
 Service and leadership
 ======
 * Elected member of the board of the Computer Science's department, Aix-Marseille Université, 2021-2023
