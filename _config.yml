@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Loïc Neyrat"
-  pronouns         : "He/him"  
+  pronouns         : # "He/him"  
   bio              : "Doctoral researcher in multimodal AI"
   location         : "SnT Luxembourg"
   employer         : "SnT, Université du Luxembourg"
