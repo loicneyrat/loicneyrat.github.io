@@ -11,36 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Artificial Intelligence, Université du Luxembourg, 2024-present
+* Ph.D in Machine Learning, Université du Luxembourg, 2024-present
 * M.S. in Artificial Intelligence and Machine Learning, Aix-Marseille Université, 2021-2023
 * B.S. in Computer Science, Aix-Marseille Université, 2019-2021
 
 Work experience
 ======
-* Spring/Summer 2023: Research Intern
+* Spring 2022 to Summer 2023: Research Intern
   * Lis-lab, Aix-Marseille Université
-  * Duties includes: Updates and improvements to template
-  * Supervisor: Thomas Schatz
-
-* Summer 2022: Research Intern
-  * Lis-lab, Aix-Marseille Université
-  * Duties included: Merging pull requests
-  * Supervisor: Thomas Schatz
+  * Subject: Computational model for biological motion perception in Humans
+  * Supervisor: [Thomas Schatz](https://thomas.schatz.cogserver.net/)
 
 * Summer 2021: Software developer Intern
   * Lis-lab, Aix-Marseille Université
-  * Duties included: Merging pull requests
-  * Supervisor: Alexis Nasr, Jean-Marc Quaranta
+  * Subject: Implementation of a Python tool allowing to visualize the process of literary writings.
+  * Supervisor: [Alexis Nasr](https://pageperso.lis-lab.fr/~alexis.nasr/), [Jean-Marc Quaranta](https://cielam.univ-amu.fr/membres/jean-marc-quaranta)
 
 * Summer 2021: Research Intern
   * Lis-lab, Aix-Marseille Université
-  * Duties included: Merging pull requests
-  * Supervisor: Benoit favre
+  * Subject: On the efficiency of extractive text summarization techniques.
+  * Supervisor: [Benoit favre](https://pageperso.lis-lab.fr/benoit.favre/)
 
 * Summer 2020: Research Intern
   * Lis-lab, Aix-Marseille Université
-  * Duties included: Tagging issues
-  * Supervisor: Benoit favre
+  * Subject: Experiments on boosting-based approaches for the classification of multi-label medical papers for scientific monitoring on Covid-19 ([Project](https://bibliovid.org/))
+  * Supervisor: [Benoit favre](https://pageperso.lis-lab.fr/benoit.favre/)
   
 <!-- Skills
 ======
