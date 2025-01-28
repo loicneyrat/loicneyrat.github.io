@@ -11,26 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Artificial Intelligence, Université du Luxembourg, 2024-present
+* M.S. in Artificial Intelligence and Machine Learning, Aix-Marseille Université, 2021-2023
+* B.S. in Computer Science, Aix-Marseille Université, 2019-2021
 
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
-  * Github University
+  * Lis-lab, Aix-Marseille Université
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Supervisor: Thomas Schatz
 
-* Fall 2015: Research Assistant
-  * Github University
+* Summer 2021: Research Intern
+  * Lis-lab, Aix-Marseille Université
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Thomas Schatz
 
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2020: Research Intern
+  * Lis-lab, Aix-Marseille Université
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Benoit favre
   
 Skills
 ======
@@ -61,4 +61,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Elected member of the board of the Computer Science's department, Aix-Marseille Université, 2021-2023
