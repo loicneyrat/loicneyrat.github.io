@@ -15,6 +15,7 @@ description              : &description "PhD student in multimodal Machine Learn
 url                      : https://loicneyrat.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "loicneyrat/loicneyrat.github.io"
+icon                     : "icons8-sphere-48.png" # Has to be stored in images
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
