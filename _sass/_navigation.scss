@@ -193,7 +193,7 @@
     position: absolute;
     height: 2.5rem;
     right: 0;
-    padding: 0 0.5rem;
+    padding: 0 0; //0 0.5rem;
     border: 0;
     outline: none;
     background-color: $primary-color;
@@ -231,7 +231,7 @@
         content: "";
         position: absolute;
         left: 0;
-        bottom: 0;
+        bottom: -0.25em; // 0
         height: 4px;
         background: $blue; //mix(#fff, $primary-color, 50%);
         width: 100%;
