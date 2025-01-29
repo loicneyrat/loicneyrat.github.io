@@ -8,10 +8,10 @@
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg">
             <a class="no-before" href="{{ base_path }}/">
-            {% if site.icon %}
-              <img src="{{ base_path }}/images/{{ site.icon }}" style="max-width: 80%;"> <!--   type="image/png"  sizes="48x48" -->
-            {% endif %}
-            <!-- {{ site.title }} -->
+            <!-- {% if site.icon %}
+              <img src="{{ base_path }}/images/{{ site.icon }}" style="max-width: 80%;"> <!--   type="image/png"  sizes="48x48"
+            {% endif %} -->
+            {{ site.title }}
             </a>
           </li>
           {% for link in site.data.navigation.main %}
