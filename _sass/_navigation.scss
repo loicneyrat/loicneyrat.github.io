@@ -231,7 +231,7 @@
         content: "";
         position: absolute;
         left: 0;
-        bottom: -0.25em; // 0
+        bottom: 0; // -0.25em
         height: 4px;
         background: $blue; //mix(#fff, $primary-color, 50%);
         width: 100%;
