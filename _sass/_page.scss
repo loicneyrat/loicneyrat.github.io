@@ -3,6 +3,7 @@
    ========================================================================== */
 
 #main {
+  position: absolute;
   @include container;
   @include clearfix;
   margin-top: 2em;
