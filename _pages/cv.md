@@ -19,28 +19,28 @@ Work experience
 ======
 * Spring 2022 to Summer 2023: **Research Intern in AI and Cognitive Sciences**
   * [Qarma Team](https://qarma.lis-lab.fr/), [LIS lab](https://www.lis-lab.fr/), Aix-Marseille Université
-  * Subject: Computational model for biological motion perception in Humans
+  * Subject: *Computational model for biological motion perception in Humans*
   * Supervisor: [Thomas Schatz](https://thomas.schatz.cogserver.net/)
 
 ---
 
 * Summer 2021: **Software developer Intern**
   * [CIELAM](https://cielam.univ-amu.fr/) x [LIS lab](https://www.lis-lab.fr/), Aix-Marseille Université
-  * Subject: Implementation of a Python tool allowing to visualize the process of literary writings.
+  * Subject: *Implementation of a Python tool allowing to visualize the process of literary writings.*
   * Supervisor: [Alexis Nasr](https://pageperso.lis-lab.fr/~alexis.nasr/), [Jean-Marc Quaranta](https://cielam.univ-amu.fr/membres/jean-marc-quaranta)
 
 ---
 
 * Summer 2021: **Research Intern in Machine Learning**
   * [TALEP Team](https://talep.lis-lab.fr/), [LIS lab](https://www.lis-lab.fr/), Aix-Marseille Université
-  * Subject: On the efficiency of extractive text summarization techniques.
+  * Subject: *On the efficiency of extractive text summarization techniques.*
   * Supervisor: [Benoit favre](https://pageperso.lis-lab.fr/benoit.favre/)
 
 ---
 
 * Summer 2020: **Research Intern in Machine Learning**
   * [TALEP Team](https://talep.lis-lab.fr/), [LIS lab](https://www.lis-lab.fr/), Aix-Marseille Université
-  * Subject: Experiments on boosting-based approaches for the classification of multi-label medical papers for scientific monitoring on Covid-19 ([Project](https://bibliovid.org/))
+  * Subject: *Experiments on boosting-based approaches for the classification of multi-label medical papers for scientific monitoring on Covid-19 ([Project](https://bibliovid.org/))*
   * Supervisor: [Benoit favre](https://pageperso.lis-lab.fr/benoit.favre/)
   
 <!-- Skills
