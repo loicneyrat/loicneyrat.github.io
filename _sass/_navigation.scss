@@ -180,7 +180,7 @@
   a {
     display: block;
     margin: 0 1rem;
-    padding: 0.5rem 0;
+    padding:  0 0; // 0.5rem 0;
     color: $masthead-link-color;
     text-decoration: none;
 
@@ -242,24 +242,17 @@
                 transform: scaleX(0); /* hide*/
       }
 
+
+      &.no-before:before {
+        content: "";
+        display: none;    
+      }
+
       &:hover:before {
         -webkit-transform: scaleX(1);
             -ms-transform: scaleX(1);
                 transform: scaleX(1); /* reveal*/
       }
-    }
-  }
-
-  a.no-before {
-
-    &:before {
-      content: "";
-    }
-
-    &:hover:before {
-      -webkit-transform: scaleX(1);
-          -ms-transform: scaleX(1);
-              transform: scaleX(1); /* reveal*/
     }
   }
 
