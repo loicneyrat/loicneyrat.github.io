@@ -242,12 +242,6 @@
                 transform: scaleX(0); /* hide*/
       }
 
-
-      &.no-before:before {
-        content: "";
-        display: none;    
-      }
-
       &:hover:before {
         -webkit-transform: scaleX(1);
             -ms-transform: scaleX(1);
