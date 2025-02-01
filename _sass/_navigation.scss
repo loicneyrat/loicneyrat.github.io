@@ -247,21 +247,6 @@
                 transform: scaleX(0); /* hide*/
       }
 
-      &:after {
-        content: "#";
-        position: absolute;
-        left: -0.5em;
-        // bottom: -0.5em;
-        // height: 4px;
-        background: $blue; //mix(#fff, $primary-color, 50%);
-        // width: 100%;
-        -webkit-transition: $global-transition;
-        transition: $global-transition;
-        -webkit-transform: scaleX(0);
-            -ms-transform: scaleX(0);
-                transform: scaleX(0); /* hide*/
-      }
-
 
       // &[class$=--lg] :before {
       //   content: "";
