@@ -25,7 +25,7 @@ Work experience
 ---
 
 * Summer 2021: **Software developer Intern**
-  * [CIELAM](https://cielam.univ-amu.fr/){target="_blank", rel="noopener"} x [LIS lab](https://www.lis-lab.fr/), Aix-Marseille Université
+  * [CIELAM](https://cielam.univ-amu.fr/){:target="_blank", rel="noopener"} x [LIS lab](https://www.lis-lab.fr/), Aix-Marseille Université
   * Subject: *Implementation of a tool allowing to visualize the process of literary writings.*
   * Supervisor: [Alexis Nasr](https://pageperso.lis-lab.fr/~alexis.nasr/), [Jean-Marc Quaranta](https://cielam.univ-amu.fr/membres/jean-marc-quaranta)
 
