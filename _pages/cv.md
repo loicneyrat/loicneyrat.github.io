@@ -11,18 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Machine Learning, Université du Luxembourg, 2024-present
+<!-- * Research Engineer, Université du Luxembourg, 2024-present -->
 * MSc in Artificial Intelligence and Machine Learning, Aix-Marseille Université, 2021-2023
 * BSc in Computer Science, Aix-Marseille Université, 2019-2021
 
 Work experience
 ======
-* Spring 2022 to Summer 2023: **Research Intern in AI and Cognitive Sciences**
-  * [Qarma Team](https://qarma.lis-lab.fr/){:target="_blank" rel="noopener"}, [LIS lab](https://www.lis-lab.fr/){:target="_blank" rel="noopener"}, Aix-Marseille Université
-  * Subject: *Computational model for biological motion perception in Humans*
-  * Supervisor: [Thomas Schatz](https://thomas.schatz.cogserver.net/){:target="_blank" rel="noopener"}
+* **November 2024 - Present**: Research Assistant in Generative AI
+  * SerVal Team, Interdisciplinary Centre for Security, Reliability and Trust (SnT), Université du Luxembourg
+  * Subject: Trustworthiness of Generative AI systems in unimodal and multimodal contexts.
+  * Supervisor: [Sylvain Kubler](https://sylvainkubler.fr/)
 
----
+* **Spring 2022 to Summer 2023**: Research Intern in AI and Cognitive Sciences
+  * Qarma Team, Lis-lab, Aix-Marseille Université
+  * Subject: Computational model for biological motion perception in Humans
+  * Supervisor: [Thomas Schatz](https://thomas.schatz.cogserver.net/)
 
 * Summer 2021: **Software developer Intern**
   * [CIELAM](https://cielam.univ-amu.fr/){:target="_blank" rel="noopener"} x [LIS lab](https://www.lis-lab.fr/){:target="_blank" rel="noopener"}, Aix-Marseille Université
